@@ -4,47 +4,34 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Murat Özer
-title: Your job title
+title: Computer Engineer
 email: ozerr.murat@hotmail.com
 phone: 0532 420 12 11
-website: Your website (eg. https://google.com)(optional)
 
 # Social links
 twitter_username: ozerimsi
 github_username:  ryuz4k1
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
+hackerrank_username: ryuz4k1
 instagram_username: ozerimsi
 linkedin_username: murat-ozer
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  Developing myself by catching the opportunities to be given in the job and to make their lives easier by creating technologies that can be useful to people by specializing. <mark>like this</mark>.
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
@@ -60,19 +47,3 @@ footer_show_references: true
 sass:
   sass_dir: _sass
   style: compressed
-
-plugins:
- - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
