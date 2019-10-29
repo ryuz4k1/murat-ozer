@@ -1,9 +1,55 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+  name: Split Mobile Application
+  link: ryuz4k1.github.io/splitApp
+  github: ryuz4k1/splitApp
+  description: |
+    The main purpose of the project is to determine the basic interests of people and to communicate with each other through these areas of interest. Talking about the content of the project; is simply a mobile application and works on the ios or android operating system.Its main features are the ability to log in to the application with the face recognition system, everyone has profile page, to share photos or text, to find people related to their interests on the map.
+
+
+- layout: top-middle
+  name: Twitter Sentiment Analysis
+  link: ryuz4k1.github.io/twitter-sentiment-analysis
+  github: ryuz4k1/twitter-sentiment-analysis
+  description: |
+    The purpose of this project is to apply sentiment analysis on a dataset that is given. Our datasets are tweets about archeage, hobbit and iphone6. As feature extractor cnn model and word2vec model (enchanced wıth googlenews); As classifier evaluation class; to seperate the dataset into multiple files,Dataseperator is used.This program is written java using dl4j.
+    Second implementationis  text analysis using machine learning models to classify movie review sentiments as positive or negative.This program is written python using pandas, sklearn(SupportVectorMachine,NaiveBayes,LogisticRegression,KNearestNeighbors).
+
+
+
+- layout: top-middle
+  name: Document Clustering
+  link: ryuz4k1.github.io/document-clustering
+  github: ryuz4k1/document-clustering
+  description: |
+    My main goal in this project was to aggregate the data sets, which were completely in the large document level, to their degree of closeness. There were two clustering algorithms that I researched. These are k-means clustering algorithm and mean-shift clustering algorithm. I used K-means clustering algorithm.
+
+
+
+- layout: top-middle
+  name: Data Preprocessor(Tensorflow)
+  link: ryuz4k1.github.io/data-preprocessor
+  github: ryuz4k1/data-preprocessor
+  description: |
+    Data is the most important criterion for educating an algorithm. Because it learns the algorithm according to the data we will use and meets the requests. However, the more regularly we give our algorithm, the more efficient it will work. In this project, I am preparing the data for tensorflow. Briefly, video data is taken, divided into frames, augmentation is performed, renamed regularly, divided into two as test(%20) - train(%80).
+
+
+
+- layout: top-middle
+  name: Tracing Mobile Applicaton
+  link: ryuz4k1.github.io/tracingApp
+  github: ryuz4k1/tracingApp
+  description: |
+    This project is a mobile application designed to report an unusual event. An application designed to easily report events such as an accident, weather, or theft.
+
+
+
+- layout: top-middle
+  name: Small Projects
+  link: ryuz4k1.github.io/small-projects
+  github: ryuz4k1/small-projects
+  description: |
+    Snake game with python and c#.
+    Hospital Automation system using c++.
+    Spam detector using python.
+    Face and emotion recognition using python.
