@@ -1,6 +1,6 @@
 <div class="container experience-container">
-    {% for reference in site.data.reference_content %}
+    <h3>{{ site.reference_contact | default: "Reference" }}</h3>
+    {% for reference in site.data.reference %}
       {% include {{ reference.layout | default: 'left' | append: ".html" }} item=reference %}
     {% endfor %}
-    {{ site.reference_contact | default: "Contact" | strip | markdownify }}
   </div>

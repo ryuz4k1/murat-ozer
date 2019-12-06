@@ -1,0 +1,14 @@
+<div class="container more-container">
+  <h3>{{ site.more_title | default: "Interests" }}</h3>
+  <div class="row clearfix">
+    <div class="col-md-12">
+        <ul>
+            <li>
+              {% for interest in site.data.interest %}
+                {% include {{ interest.layout | default: 'left' | append: ".html" }} item=interest %}
+              {% endfor %}
+            </li>
+         </ul>
+    </div>
+  </div>
+</div>

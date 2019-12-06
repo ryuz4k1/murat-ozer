@@ -23,7 +23,7 @@ about_content: | # this will include new lines to allow paragraphs
   I'm an <mark>open source</mark> person. I share a project that I have developed personally for commercial purposes. In many conversation groups I focus on <mark>solving</mark> their problems by <mark>communicating</mark> with people. Because I am doing a project by making use of the internet and the experiences of people by adding something of course. When this happens, I share what I receive from people by adding my superior labor to people and people in need again.
   I have experience in many areas. I have done more software-oriented jobs and I intend to continue my life as a software developer.
   I love <mark>helping</mark>  people, adding things to them and <mark>learning</mark> from them. There is nothing <mark>team</mark> cannot overcome if we can work with this thought in developing a project..
-  I'm also developing myself by catching the opportunities to be given in the job and to make their lives easier by creating technologies that can be useful to people by specializing.
+  I'm also developing myself by catching the opportunities to be given in the job and to make their lives easier by creating technologies that can be <mark>useful</mark> to people by specializing.
 
 # Projects Section
 projects_title: Projects #(Use this to override about projects section title)
@@ -45,6 +45,8 @@ more_content: |
 
 # Footer
 footer_show_references: true
+
+reference_contact: "Reference"
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
