@@ -1,5 +1,27 @@
 # Project template
 - layout: top-middle
+  name: Sea Chat
+  link: https://sea-chat.herokuapp.com/
+  github: ryuz4k1/SeaChat
+  description: |
+    The main purpose of this project is to provide an advanced chat system to enable people to communicate with each other on the socket architecture in Nodejs. Technologies and modules such as AngularJS, redis, mongoose, express are used.
+
+- layout: top-middle
+  name: OzzBall
+  link: https://ozzball.herokuapp.com/
+  github: ryuz4k1/OzzBall
+  description: |
+    The main purpose of this project is to understand socket architecture in Nodejs. Socketio module is used. The service it provides is; everyone has a ball and everyone can talk to each other instantly.
+
+- layout: top-middle
+  name: Simple Webservice API using NodeJS
+  link: https://c-movie-api.herokuapp.com/
+  github: ryuz4k1/movie-api
+  description: |
+    The main purpose of this project is to create a public web service provider. This service offers us information such as movies, series, directors. I have enabled this service to run for free via heroku. But it needs a token to retrieve data from this service.
+
+
+- layout: top-middle
   name: Split Mobile Application
   link: ryuz4k1.github.io/splitApp
   github: ryuz4k1/splitApp
@@ -15,15 +37,12 @@
     The purpose of this project is to apply sentiment analysis on a dataset that is given. Our datasets are tweets about archeage, hobbit and iphone6. As feature extractor cnn model and word2vec model (enchanced wıth googlenews); As classifier evaluation class; to seperate the dataset into multiple files,Dataseperator is used.This program is written java using dl4j.
     Second implementationis  text analysis using machine learning models to classify movie review sentiments as positive or negative.This program is written python using pandas, sklearn(SupportVectorMachine,NaiveBayes,LogisticRegression,KNearestNeighbors).
 
-
-
 - layout: top-middle
   name: Document Clustering
   link: ryuz4k1.github.io/document-clustering
   github: ryuz4k1/document-clustering
   description: |
     My main goal in this project was to aggregate the data sets, which were completely in the large document level, to their degree of closeness. There were two clustering algorithms that I researched. These are k-means clustering algorithm and mean-shift clustering algorithm. I used K-means clustering algorithm.
-
 
 
 - layout: top-middle
@@ -34,6 +53,20 @@
     Data is the most important criterion for educating an algorithm. Because it learns the algorithm according to the data we will use and meets the requests. However, the more regularly we give our algorithm, the more efficient it will work. In this project, I am preparing the data for tensorflow. Briefly, video data is taken, divided into frames, augmentation is performed, renamed regularly, divided into two as test(%20) - train(%80).
 
 
+- layout: top-middle
+  name: Face Recognition
+  link: ryuz4k1.github.io/faceRecognition
+  github: ryuz4k1/faceRecognition
+  description: |
+    It is simply written to detect the faces of users who registered in the application and measure their emotions using FaceRecognition library in Python.Face Recognition library built using dlib's state-of-the-art built with deep learning. The model has an accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
+
+- layout: top-middle
+  name: Spam Detector
+  link: ryuz4k1.github.io/SpamDetector
+  github: ryuz4k1/spamDetector
+  description: |
+    A program to detect if a given mail is "spam" or "ham".
+
 
 - layout: top-middle
   name: Tracing Mobile Applicaton
@@ -43,7 +76,6 @@
     This project is a mobile application designed to report an unusual event. An application designed to easily report events such as an accident, weather, or theft.
 
 
-
 - layout: top-middle
   name: Small Projects
   link: ryuz4k1.github.io/small-projects
@@ -51,5 +83,3 @@
   description: |
     Snake game with python and c#.
     Hospital Automation system using c++.
-    Spam detector using python.
-    Face and emotion recognition using python.
