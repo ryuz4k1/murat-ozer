@@ -1,35 +1,35 @@
-layout: Left
+- layout: left
   description: |
     Backend Development, RESTfull web services, microservices.
 
-layout: Left
+- layout: left
   description: |
     Data science, machine learning and big data.
 
 
-layout: Left
+- layout: left
   description: |
     Computer vision,image processing and Natural language processing.
 
 
-layout: Left
+- layout: left
   description: |
     Data science, machine learning and big data.
 
 
 
-layout: Left
+- layout: left
   description: |
     Mobile Technologies like User Experience (UX) / User Interface (UI) Specialist.
 
 
 
-layout: Left
+- layout: left
   description: |
     Databases and knowledge-bases.
 
 
 
-layout: Left
+- layout: left
   description: |
     Programming tools, environments, and program analysis (testing, debugging, reuse, usability).
