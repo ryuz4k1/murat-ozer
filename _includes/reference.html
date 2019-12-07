@@ -1,6 +1,19 @@
 <div class="container reference-container">
     <h3>{{ site.reference_title | default: "Reference" }}</h3>
-    {% for reference in site.data.references %}
-      {% include {{ reference.layout | default: 'left' | append: ".html" }} item=reference %}
-    {% endfor %}
+    <div class="row clearfix">
+        <div class="col-md-12">
+            <ul>
+                <li>
+                    Asst. prof. Aysun Güran | Dogus University Software Engineering Department
+                    <br>
+                    0536 947 32 75 - adogrusoz@dogus.edu.tr
+                </li>
+                <li>
+                    Güven Hanege | Rofoods Micro Markets
+                    <br>
+                    0542 232 31 91  - ghanege@rofoods.com
+                </li>
+             </ul>
+        </div>
+      </div>
   </div>
