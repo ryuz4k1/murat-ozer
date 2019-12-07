@@ -1,0 +1,12 @@
+<div class="container interest-container">
+    <h3>{{ site.book_title | default: "Books/Hobies" }}</h3>
+    <br>
+    <div class="row clearfix">
+        <div class="col-md-12">
+            <ul>
+                {{ site.books_content | strip | markdownify }}
+            </ul>
+        </div>
+    </div>
+</div>
+    

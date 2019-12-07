@@ -13,7 +13,7 @@ twitter_username: ozerimsi
 github_username:  ryuz4k1
 hackerrank_username: ryuz4k1
 instagram_username: ozerimsi
-linkedin_username: murat-ozer
+linkedin_username: murat-özer-96a265144
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -36,15 +36,30 @@ education_title: Education #(Use this to override about education section title)
 
 reference_title: "Reference"
 
-interests_title: "Interests"
+interests_title: "Interest"
 
-# More Section
-more_content: | 
-  Data science, machine learning and big data.
-  Computer vision,image processing and Natural language processing.
-  Mobile Technologies like User Experience (UX) / User Interface (UI) Specialist.
-  Databases and knowledge-bases.
-  Programming tools, environments, and program analysis (testing, debugging, reuse, usability).
+book_title: "Books / Hobbies"
+
+certificate_title: "Attendance Certificates"
+
+# Books
+books_content:
+  <li>Are You Smart Enough to Work at Google? - William Poundstone (NTV)</li>
+  <li>Kali Linux - Abdulaziz Altuntaş (Kodlab) </li>
+  <li>Introduction to internet programming with php - Faruk Kaynaklı (Abaküs)</li>
+  <li>Projects with C++ - Doc.Dr. Yıldıray Yalman - Research Asst. Tolga Büyüktanır (Kodlab) </li>
+  <li> The Art of Deception: Controlling the Human Element of Securityn - Kevin D. Mitnick William L. Simon (ODTU)</li>
+  <li> The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers - Kevin D. Mitnick William L. Simon (ODTU) </li>
+  <li> Hackers & Painters: Big Ideas from the Computer Age - Paul Graham (ODTU) </li>
+  <li> Kariyer ve Varoluş-Bir Benlik Eylemi (Kavramlar, Olgular, Deneyimler) - Daniş Navaro (Elma) </li>
+  <li> Kavram - Uygulama - Soru/Cevap / Yazılım Test Teknikleri - L. Koray Yitmen (Seçkin) </li>
+
+# Certificates
+certificate_content:
+  <li>Doğuş University Information Club 20-21 April 2017 Certificate of participation in <mark> Data Analytic </mark> analytic activity.</li>
+  <li>IEEE (Institute of Electrical and Electronics Enginers) hosted by Istanbul Kültür University student community on 2-3-4 March 2018 at Istanbul Kültür University Ataköy Campus participated in the "IEEE Turkey Computer Society Congress - CSCON'18" event and successfully completed the training on <mark> Machine learning </mark> topic. </li>
+  <li>Certificate of Attendance at the <mark>Career Days in Informatics</mark> event organized by Doğuş University Informatics Club on 5-6 March 2018.</li>
+  <li>Artificial intelligence producing turkey / DeepCon'18 5-6 October 2018 BTK / Ankara - Deep Learning Turkey (Certificate of Attendance)</li>
 
 # Footer
 footer_show_references: true
