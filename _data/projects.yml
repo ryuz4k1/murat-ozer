@@ -1,21 +1,21 @@
 # Project template
 - layout: top-middle
   name: Sea Chat
-  link: https://sea-chat.herokuapp.com/
+  link: ec2-18-221-89-9.us-east-2.compute.amazonaws.com:5000
   github: ryuz4k1/SeaChat
   description: |
     The main purpose of this project is to provide an advanced chat system to enable people to communicate with each other on the socket architecture in Nodejs. Technologies and modules such as AngularJS, redis, mongoose, express are used.
 
 - layout: top-middle
   name: OzzBall
-  link: https://ozzball.herokuapp.com/
+  link: ozzball.herokuapp.com
   github: ryuz4k1/OzzBall
   description: |
     The main purpose of this project is to understand socket architecture in Nodejs. Socketio module is used. The service it provides is; everyone has a ball and everyone can talk to each other instantly.
 
 - layout: top-middle
   name: Simple Webservice API using NodeJS
-  link: https://c-movie-api.herokuapp.com/
+  link: c-movie-api.herokuapp.com
   github: ryuz4k1/movie-api
   description: |
     The main purpose of this project is to create a public web service provider. This service offers us information such as movies, series, directors. I have enabled this service to run for free via heroku. But it needs a token to retrieve data from this service.
