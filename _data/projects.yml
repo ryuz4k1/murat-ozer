@@ -1,5 +1,14 @@
 # Project template
 - layout: top-middle
+  name: Ozz Generator
+  link: ryuz4k1.github.io/OzzGenerator
+  github: ryuz4k1/OzzGenerator
+  description: |
+    Use the application generator tool script, ozz-generator, to quickly create an application skeleton.
+    The aim of this project; A Node.JS project is intended to create the framework structure, to establish the necessary structure, architecture, and to do this in a regular, readable form.
+    By default the mongodb connection is built with .ejs for appearance, express to create an http server, and useful modules that you can use.
+
+- layout: top-middle
   name: Sea Chat
   link: ec2-18-221-89-9.us-east-2.compute.amazonaws.com:5000
   github: ryuz4k1/SeaChat
