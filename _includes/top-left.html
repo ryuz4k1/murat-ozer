@@ -2,9 +2,7 @@
   <div class="col-xs-12 col-print-12 details">
     {%- if include.item.name -%}<h4>{{ include.item.name }}</h4>{%- endif -%}
     {%- if include.item.company -%}<h4>{{ include.item.company }}</h4>{%- endif -%}
-    <li>
-      {%- if include.item.interest_description -%}<p>{{ include.item.interest_description | strip | markdownify }}</p>{%- endif -%}
-    </li>
+    {%- if include.item.interest_description -%}<li>{{ include.item.interest_description | strip | markdownify }}</li>{%- endif -%}
     {%- if include.item.link -%}
       {% include a.html href=include.item.link class="link" %}{{ include.item.link }}</a>
     {%- endif -%}
