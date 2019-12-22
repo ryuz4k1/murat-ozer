@@ -1,29 +1,29 @@
-- layout: top-middle
+- layout: top-right
   interest_description: |
     Backend Development, RESTfull web services, microservices.
 
-- layout: top-middle
+- layout: top-right
   interest_description: |
     Data science, machine learning and big data.
 
 
-- layout: top-middle
+- layout: top-right
   interest_description: |
     Computer vision,image processing and Natural language processing.
 
 
-- layout: top-middle
+- layout: top-right
   interest_description: |
     Mobile Technologies like User Experience (UX) / User Interface (UI) Specialist.
 
 
 
-- layout: top-middle
+- layout: top-right
   interest_description: |
     Databases and knowledge-bases.
 
 
 
-- layout: top-middle
+- layout: top-right
   interest_description: |
     Programming tools, environments, and program analysis (testing, debugging, reuse, usability).

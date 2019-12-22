@@ -1,8 +1,15 @@
 <div class="container interest-container">
   <h3>{{ site.interests_title | default: "Interests" }}</h3>
-  {% for interest in site.data.interests %}
-    {% include {{ interest.layout | default: 'left' | append: ".html" }} item=interest %}
-  {% endfor %}
+  <div class="row clearfix layout layout-top-right">
+    <div class="col-xs-12 col-print-12 details">
+      <ul>
+        {% for interest in site.data.interests %}
+        <li>{% include {{ interest.layout | default: 'left' | append: ".html" | strip | markdownify }} item=interest %}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  
 </div>
 
   <!--
