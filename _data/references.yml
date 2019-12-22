@@ -1,9 +1,9 @@
-- layout: left
+- layout: top-middle
   references_name: Asst. prof. Aysun Güran
   place: Dogus University Software Engineering Department
   reference_contact : 0536 947 32 75 - adogrusoz@dogus.edu.tr
 
-- layout: left
+- layout: top-middle
   references_name: Güven Hanege
   place: Rofoods Micro Markets
   reference_contact: | 
