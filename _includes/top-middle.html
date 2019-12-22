@@ -4,6 +4,7 @@
     {%- if include.item.company -%}<h4>{{ include.item.company }}</h4>{%- endif -%}
     {%- if include.item.references_name -%}<h4>{{ include.item.references_name }}</h4>{%- endif -%}
     {%- if include.item.place -%}<p>{{ include.item.place | strip | markdownify }}</p>{%- endif -%}
+    {%- if include.item.interest_description -%}<li>{{ include.item.interest_description | strip | markdownify }}</li>{%- endif -%}
     {%- if include.item.reference_contact -%}<p>{{ include.item.reference_contact | strip | markdownify }}</p>{%- endif -%}
     {%- if include.item.link -%}
       {% include a.html href=include.item.link class="link" %}{{ include.item.link }}</a>
@@ -28,6 +29,5 @@
       <p class="quote">{{ include.item.quote }}</p>
     {%- endif -%}
     {{ include.item.description | strip | markdownify }}
-    {%- if include.item.interest_description -%}<li>{{ include.item.interest_description | strip | markdownify }}</li>{%- endif -%}
   </div>
 </div>
