@@ -1,5 +1,13 @@
 <div class="container interest-container">
     <h3>{{ site.book_title | default: "Books/Hobies" }}</h3>
+    {% for book in site.data.books %}
+        {% include {{ book.layout | default: 'left' | append: ".html" }} item=book %}
+    {% endfor %}
+</div>
+
+<!-- 
+<div class="container interest-container">
+    <h3>{{ site.book_title | default: "Books/Hobies" }}</h3>
     <br>
     <div class="row clearfix">
         <div class="col-md-12">
@@ -9,4 +17,8 @@
         </div>
     </div>
 </div>
+-->
+
+
+
     

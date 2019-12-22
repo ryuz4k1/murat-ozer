@@ -1,0 +1,37 @@
+- layout: top-left
+  book_description: |
+    Are You Smart Enough to Work at Google? - William Poundstone (NTV).
+
+- layout: top-left
+  book_description: |
+    Kali Linux - Abdulaziz Altuntaş (Kodlab)
+
+- layout: top-left
+  book_description: |
+    Introduction to internet programming with php - Faruk Kaynaklı (Abaküs)
+
+- layout: top-left
+  book_description: |
+    Projects with C++ - Doc.Dr. Yıldıray Yalman - Research Asst. Tolga Büyüktanır (Kodlab)
+
+- layout: top-left
+  book_description: |
+    'The Art of Deception:' Controlling the Human Element of Securityn - Kevin D. Mitnick William L. Simon (ODTU)
+
+- layout: top-left
+  book_description: |
+    'The Art of Intrusion:' The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers - Kevin D. Mitnick William L. Simon (ODTU)
+
+
+- layout: top-left
+  book_description: |
+    'Hackers & Painters:' Big Ideas from the Computer Age - Paul Graham (ODTU))
+
+- layout: top-left
+  book_description: |
+    Kariyer ve Varoluş-Bir Benlik Eylemi (Kavramlar, Olgular, Deneyimler) - Daniş Navaro (Elma)
+
+
+- layout: top-left
+  book_description: |
+    Kavram - Uygulama - Soru/Cevap / Yazılım Test Teknikleri - L. Koray Yitmen (Seçkin)

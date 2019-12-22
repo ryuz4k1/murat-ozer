@@ -28,7 +28,11 @@
         {%- include interests.html -%}
       {%- endif -%}
 
-      {%- include books.html -%}
+      {%- if site.data.books.size > 0 -%}
+        {%- include books.html -%}
+      {%- endif -%}
+
+      <!-- {%- include books.html -%} -->
 
       {%- include certificates.html -%}
 
