@@ -1,12 +1,7 @@
-<div class="container interest-container">
-    <h3>{{ site.certificate_title | default: "Books/Hobies" }}</h3>
-    <br>
-    <div class="row clearfix">
-        <div class="col-md-12">
-            <ul>
-                {{ site.certificate_content | strip | markdownify }}
-            </ul>
-        </div>
-    </div>
+<div class="container experience-container">
+    <h3>{{ site.certificate_title | default: "Certificates" }}</h3>
+    {% for certificate in site.data.certifications %}
+        {% include {{ certificate.layout | default: 'left' | append: ".html" }} item=certificate %}
+    {% endfor %}
 </div>
-        
+  

@@ -8,6 +8,9 @@
     <ul>
       {%- if include.item.book_description -%}<li>{{ include.item.book_description}}</li>{%- endif -%}
     </ul>
+    <ul>
+      {%- if include.item.cert_description -%}<li>{{ include.item.cert_description}}</li>{%- endif -%}
+    </ul>
     {%- if include.item.link -%}
       {% include a.html href=include.item.link class="link" %}{{ include.item.link }}</a>
     {%- endif -%}
