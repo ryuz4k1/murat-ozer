@@ -1,5 +1,13 @@
 - layout: top-left
   book_description: |
+    Microservices From Design to Deployment - Chris Richardson with Floyd Smith (NGNIX).
+
+- layout: top-left
+  book_description: |
+    Node.js Notes for Professionals - Free Programming Books (GoalKicker.com).
+
+- layout: top-left
+  book_description: |
     Are You Smart Enough to Work at Google? - William Poundstone (NTV).
 
 - layout: top-left
