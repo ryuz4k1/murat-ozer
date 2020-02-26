@@ -6,7 +6,6 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Murat Özer
 title: Computer Engineer
 email: ozerr.murat@hotmail.com
-phone: 0532 420 12 11
 
 # Social links
 twitter_username: ozerimsi
