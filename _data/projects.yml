@@ -1,5 +1,12 @@
 # Project template
 - layout: top-middle
+  name: İndirim Nerede
+  link: https://play.google.com/store/apps/details?id=com.indirimnerede.app
+  description: |
+    The purpose of this application is to show only discounted products and campaign products in existing markets. 
+    The interface is easy to use, simply designed. Frontend is designed with Ionic5, capacitor, AngularJS and backend part is used with NodeJS.
+
+- layout: top-middle
   name: Ozz Generator
   link: ryuz4k1.github.io/OzzGenerator
   github: ryuz4k1/OzzGenerator
