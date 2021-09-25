@@ -1,6 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: ryuz4k1/murat-ozer
 
 # Personal info
 name: Murat Özer
@@ -11,7 +10,7 @@ email: ozerr.murat@hotmail.com
 twitter_username: ozerimsi
 github_username:  ryuz4k1
 instagram_username: ozerimsi
-linkedin_username: murat-özer-96a265144
+linkedin_username: murat-ozer
 hackerrank_username: ryuzak1
 
 # About Section
@@ -43,11 +42,6 @@ certificate_title: "Certificates"
 
 # Footer
 footer_show_references: true
-
-
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass

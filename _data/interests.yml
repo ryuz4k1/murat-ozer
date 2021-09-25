@@ -1,6 +1,9 @@
 - layout: top-left
   interest_description: |
-    Backend Development, RESTfull web services, microservices.
+    Front-end Development and Technologies, ReactJS, NextJS, VueJS.
+
+  interest_description: |
+    Back-end Development, RESTfull web services, microservices.
 
 - layout: top-left
   interest_description: |
@@ -9,7 +12,7 @@
 
 - layout: top-left
   interest_description: |
-    Computer vision,image processing and Natural language processing.
+    Computer vision, image processing and Natural language processing.
 
 
 - layout: top-left

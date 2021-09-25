@@ -1,11 +1,19 @@
 # Experience template
 - layout: left
+  company: Altamira Digital Works
+  link: altamira.com.tr
+  job_title: Front-end Web Developer
+  dates: May 2020 - present
+  description: | 
+    Implemented websites, mobile applications, and landing pages from concept through deployment. Assessed UX and UI designs for technical feasibility. Developed standard and custom reports in graph format as required. Collaborated with product team members to implement new feature developments.
+
+- layout: left
   company: Rofoods Micro Markets
   link: rofoods.com
   job_title: Back-end Developer
   dates: August 2019 - November 2019
   description: | 
-    My first job after graduation is my professional work experience. Following the latest technology, I made improvements to web services. Using NodeJS, Redis, Socket.io, docker, gcloud, postgresql and many other technologies, I wrote micro-services that the company would need. I also had a full stack experience. I worked on the frontend and backend services of the admin panel that the company needs.
+    Supported Rofoods backend software development and testing processes. Verified that software met requirements and maintained existing applications The latest technology, made improvements to web services. Using NodeJS, Redis, Socket.io, docker, gcloud, postgresql and many other technologies.
 
 - layout: left
   company: Rofoods Micro Markets
@@ -13,7 +21,7 @@
   job_title: Machine Learning Developer
   dates: September 2018 - August 2019
   description: | 
-    This is my first professional work experience working part-time while studying at the University in the last year. I have gained experience on the latest technologies by developing projects and developments on machine learning, deep learning and image processing.
+    Analysis face, body and market products data and build a machine learning model. By reading many articles on object recognition and deep learning, machine learning and deep learning and image processing were developed with market products data by creating their own machine learning models.
 
 - layout: left
   company: Machine Learning Internship
