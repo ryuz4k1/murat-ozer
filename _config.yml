@@ -15,7 +15,7 @@ hackerrank_username: ryuzak1
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpeg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm Murat Özer. I graduated from Doğuş University <mark>Computer Engineering</mark>. In fact, after two years of studying at the school I gained as an industrial engineer, I switched to computer engineering. I think it's one of the <mark>best decisions</mark> I've ever made.
   I'm an <mark>open source</mark> person. I share a project that I have developed personally for commercial purposes. In many conversation groups I focus on <mark>solving</mark> their problems by <mark>communicating</mark> with people. Because I am doing a project by making use of the internet and the experiences of people by adding something of course. When this happens, I share what I receive from people by adding my superior labor to people and people in need again.
